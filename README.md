@@ -1,2 +1,2 @@
 # Data-structures
-Repositories regarding Data Structure code
+Repository for hacktoberfest
